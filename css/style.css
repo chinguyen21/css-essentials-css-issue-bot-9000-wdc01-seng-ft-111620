@@ -13,9 +13,12 @@ h2 {
   font-style: italic;
 }
 
-
+.completed {
+    font-family: "Times New Roman";
+  }
+  
 #tasks .completed {
   background: #ccc;
   text-decoration: underline;
-  font-family: "Times New Roman";
+  
 }
